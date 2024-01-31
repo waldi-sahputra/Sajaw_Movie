@@ -1,0 +1,141 @@
+nav{
+    color: white ;
+    background-color: rgba(0, 0, 0, 0.3);
+    transition: all 0.5s ease;
+    
+}
+
+nav.sticky{
+    background: #212529;
+}
+
+.logo img{
+    width: 120px;
+    margin-right: 70px;
+}
+
+.menu ul li{
+    margin: auto 20px;
+}
+
+form {
+    margin-left: 15px;
+}
+
+form .cari {
+    background-color: white;
+    margin-right: 15px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.carousel-item {
+    background-color: black;
+    justify-content: center;
+}
+
+.carousel-item img {
+    width: 1400px;
+    height: 450px;
+}
+
+.carousel-item button{
+    border-radius: 25px;
+}
+
+body{
+    background-color: #0c0d0f;
+}
+
+.container .row{
+    padding: 5px 0px;
+    border-radius: 5px;
+    background-color: #0c0d0f;
+}
+
+.container h3{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.container img {
+    width: 132px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.container .rekom img{
+    width: 350px;
+    height: 150px;
+}
+
+.carousel-caption img{
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+    background-color: black;
+    border-radius: 100%;
+    margin-bottom: 110px;
+}
+
+.text-center img{
+    width: 180px;
+    height: 180px;
+    margin: 2px 0px;
+}
+
+section{
+    margin-top: 200px;
+    padding: 15px 90px;
+    background-color: #212529;
+}
+
+section .table{
+    color: white;
+}
+
+tbody tr td img{
+    width: 30px;
+    margin-right: 20px;
+}
+
+footer{
+    color: rgb(197, 197, 197);
+    padding-left: 90px;
+}
+
+a {
+    color: white;
+}
+
+a:hover{
+    color: rgb(240, 86, 86);
+}
+
+.container .genre .text-center{
+    background-color: black;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.container .genre .text-center a img{
+    width: 132px;
+    height: 200px;
+    border-radius:55px;
+    margin: 6px;
+}
+
+.sinopsis{
+    background-color:black;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.card-deck .card a img{
+    margin: 32px;
+}
+
+
+
+
+

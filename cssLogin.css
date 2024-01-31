@@ -1,0 +1,42 @@
+nav{
+    background-color: #0c0d0f; 
+}
+
+.container{
+    background-color: #ffffff;
+}
+
+nav img{
+    width: 150px;
+}
+
+.navbar
+
+a{
+ color: #0c0d0f;
+
+ &:hover{
+    text-decoration: none;
+    transition: 0.8s;
+ }
+}
+
+.card img{
+    max-width: 150px;
+}
+
+.form-control{
+    font-size: 0.8rem;
+    padding: 1.5rem 1rem;
+}
+
+.custom-checkbox label{
+    line-height: 1.5rem;
+}
+
+.btn{
+    font-size: 0.8rem;
+    padding: 0.75rem 1rem;
+
+}
+
